@@ -7,5 +7,11 @@ Unemployment Rate from FRED:- https://fred.stlouisfed.org/series/UNRATE/
 Google Trends:- https://trends.google.com/trends/explore
 Yahoo Finance for Tesla Stock Price:- https://finance.yahoo.com/quote/TSLA/history?p=TSLA
 Yahoo Finance for Bitcoin Stock Price:- https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD
-
+Data Sources: <br>
+<ul>
+<li> <a href="https://fred.stlouisfed.org/series/UNRATE/">Unemployment Rate from FRED</a></li>
+<li> <a href="https://trends.google.com/trends/explore">Google Trends</a> </li>  
+<li> <a href="https://finance.yahoo.com/quote/TSLA/history?p=TSLA">Yahoo Finance for Tesla Stock Price</a> </li>    
+<li> <a href="https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD">Yahoo Finance for Bitcoin Stock Price</a> </li>
+</ul>
 
